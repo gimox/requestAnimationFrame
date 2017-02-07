@@ -1,0 +1,14 @@
+{
+    "name": "requestAnimation",
+    "version": "0.0.1",
+    "authors": [
+        "Giorgio Modoni <modogio@gmail.com>"
+    ],
+    "main": [
+        "requestAnimationFrame.js"
+    ],
+    "scripts": [
+        "requestAnimationFrame.js",
+        "requestAnimationFrame.min.js"
+    ]
+}
